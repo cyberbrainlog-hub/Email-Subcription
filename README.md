@@ -1,2 +1,2 @@
-# Weather-App
-first GitHub repository as weather app
+# Email Subscription
+First Repository
